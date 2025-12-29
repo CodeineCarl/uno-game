@@ -1,0 +1,20 @@
+{
+  "name": "uno-multiplayer-game",
+  "version": "1.0.0",
+  "description": "A multiplayer UNO card game that supports up to 15 players",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "uno",
+    "multiplayer",
+    "card-game",
+    "websocket"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
